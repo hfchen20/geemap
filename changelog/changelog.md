@@ -1,5 +1,68 @@
 # Changelog
 
+## v0.19.6 - Jan 23, 2023
+
+**Improvement**
+
+-   Automatically copy converted JavaScript to Python script to clipboard ([#1411](https://github.com/giswqs/geemap/issues/1411))
+
+## v0.19.5 - Jan 19, 2023
+
+**Improvement**
+
+-   Pin ipywidgets version <8.0 as VS Code does not support ipywidgets 8.x ([#1408](https://github.com/giswqs/geemap/pull/1408))
+
+## v0.19.4 - Jan 19, 2023
+
+**Improvement**
+
+-   Added layer control to split map ([#1405](https://github.com/giswqs/geemap/pull/1405))
+-   Improved JavaScript to Python conversion ([#1405](https://github.com/giswqs/geemap/pull/1405))
+
+## v0.19.3 - Jan 17, 2023
+
+**Improvement**
+
+-   Updated timelapse default end year [#1400](https://github.com/giswqs/geemap/pull/1400)
+
+## v0.19.2 - Jan 11, 2023
+
+**Improvement**
+
+-   Fixed add_labels bug ([#1391](https://github.com/giswqs/geemap/pull/1391))
+-   Removed LGTM badge ([#1389](https://github.com/giswqs/geemap/pull/1389))
+-   Improved cartoee legend and savefig ([#1380](https://github.com/giswqs/geemap/pull/1380))
+-   Updated vector_to_gif notebook
+
+## v0.19.1 - Dec 22, 2022
+
+**New Features**
+
+-   Added colorbar support for folium ([#1372](https://github.com/giswqs/geemap/pull/1372))
+
+## v0.19.0 - Dec 5, 2022
+
+**New Features**
+
+-   Added support for ArcGIS Pro ([#1361](https://github.com/giswqs/geemap/pull/1361))
+
+## v0.18.3 - Dec 1, 2022
+
+**Improvement**
+
+-   Fixed draw control bug ([#1352](https://github.com/giswqs/geemap/pull/1352))
+
+## v0.18.2 - Dec 1, 2022
+
+**New Features**
+
+-   Added support for print objects using eerepr ([#1354](https://github.com/giswqs/geemap/pull/1354))
+-   Added support for using custom TiTiler endpoint ([#1353](https://github.com/giswqs/geemap/pull/1353))
+
+**Improvement**
+
+-   Fixed `geojson_to_ee` bug ([#1351](https://github.com/giswqs/geemap/pull/1351))
+
 ## v0.18.1 - Nov 28, 2022
 
 **New Features**
